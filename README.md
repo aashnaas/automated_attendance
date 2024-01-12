@@ -29,6 +29,5 @@ The 'Manually Fill Attendance' button in the user interface allows for manual at
 
 
 
-
-![alt text](https://github.com/[aashnaas]/[automated_attendance]/blob/[main]/Screenshot_1.png?raw=true)
+Screenshot_1.png
 
